@@ -29,7 +29,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>Frontend-01-Template/NOTE.md at master · owensiz/Frontend-01-Template · GitHub</title>
+  <title>Frontend-01-Template/server.js at master · owensiz/Frontend-01-Template · GitHub</title>
     <meta name="description" content="Contribute to owensiz/Frontend-01-Template development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -42,7 +42,7 @@
   
   
 
-  <meta name="request-id" content="3111:0416:8F26E0:C2C329:5EBC15BC" data-pjax-transient="true"/><meta name="html-safe-nonce" content="b24e425a8ae31556ed5fddeb0bf4216a5b1fed7a" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIzMTExOjA0MTY6OEYyNkUwOkMyQzMyOTo1RUJDMTVCQyIsInZpc2l0b3JfaWQiOiI4OTQ2OTE0Mzc5NTIzNzQyMDMiLCJyZWdpb25fZWRnZSI6ImFwLXNvdXRoZWFzdC0xIiwicmVnaW9uX3JlbmRlciI6ImFwLXNvdXRoZWFzdC0xIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="9ad27d6dcd065c7b698ec711d2fb72b006e84c7421abff737946d196c126d17e" data-pjax-transient="true"/>
+  <meta name="request-id" content="35E0:0416:8F49B5:C2F412:5EBC15FF" data-pjax-transient="true"/><meta name="html-safe-nonce" content="8f74e7e2f8af0debdbc3f9a3e3ea8ffbbfd49070" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIzNUUwOjA0MTY6OEY0OUI1OkMyRjQxMjo1RUJDMTVGRiIsInZpc2l0b3JfaWQiOiI3ODk1NzY2MTQ3OTYwNDExNjQ3IiwicmVnaW9uX2VkZ2UiOiJhcC1zb3V0aGVhc3QtMSIsInJlZ2lvbl9yZW5kZXIiOiJhcC1zb3V0aGVhc3QtMSJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="6810ad5b2fe6df35db5f0e3e14c4b3668216f1c760be871dca3c9f1255abde87" data-pjax-transient="true"/>
 
 
 
@@ -89,7 +89,7 @@
   <meta name="octolytics-dimension-user_id" content="31332358" /><meta name="octolytics-dimension-user_login" content="owensiz" /><meta name="octolytics-dimension-repository_id" content="252664634" /><meta name="octolytics-dimension-repository_nwo" content="owensiz/Frontend-01-Template" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="true" /><meta name="octolytics-dimension-repository_parent_id" content="249397663" /><meta name="octolytics-dimension-repository_parent_nwo" content="GeekUniversity/Frontend-01-Template" /><meta name="octolytics-dimension-repository_network_root_id" content="249397663" /><meta name="octolytics-dimension-repository_network_root_nwo" content="GeekUniversity/Frontend-01-Template" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/owensiz/Frontend-01-Template/blob/master/week05/NOTE.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/owensiz/Frontend-01-Template/blob/master/week05/server.js" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -141,8 +141,8 @@
         <div class="d-flex flex-items-center">
             <a href="/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo"
               class="d-inline-block d-lg-none f5 text-white no-underline border border-gray-dark rounded-2 px-2 py-1 mr-3 mr-sm-5"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/owensiz/Frontend-01-Template/blob/master/week05/NOTE.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f35eb14909ef616963a823f55c38d414823eab738a102c1c7c5fc59862359dfe"
-              data-ga-click="Sign up, click to sign up for account, ref_page:/owensiz/Frontend-01-Template/blob/master/week05/NOTE.md;ref_cta:Sign up;ref_loc:header logged out">
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/owensiz/Frontend-01-Template/blob/master/week05/server.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c2646abaa3047f9d4f9be59bbff150f4ac45d624621a7c9acf0d894a78baf42f"
+              data-ga-click="Sign up, click to sign up for account, ref_page:/owensiz/Frontend-01-Template/blob/master/week05/server.js;ref_cta:Sign up;ref_loc:header logged out">
               Sign&nbsp;up
             </a>
 
@@ -288,7 +288,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="+lLVX/KCzDYekSU+mVpcjAyLg/5ktu8D0PMMBiw0qr7Vgx9YJH38tRXX8CFdkYapWX25RzCg0q4T/LcFRaZtmA==" />
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="A7x3SHbSB3oGFWc5IPjxeIF7Vrop8cms065skg15DHJeOgqubARYWmmJxWEAAE1FPkAGTl96FanrzH2ksIYVpA==" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -410,15 +410,15 @@
 
           </div>
 
-        <a href="/login?return_to=%2Fowensiz%2FFrontend-01-Template%2Fblob%2Fmaster%2Fweek05%2FNOTE.md"
+        <a href="/login?return_to=%2Fowensiz%2FFrontend-01-Template%2Fblob%2Fmaster%2Fweek05%2Fserver.js"
           class="HeaderMenu-link no-underline mr-3"
-          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/owensiz/Frontend-01-Template/blob/master/week05/NOTE.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="17be51bc76591a419dd8ec86604e58119a3ca816240f89bcaa008dd93e4c9dd4"
+          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/owensiz/Frontend-01-Template/blob/master/week05/server.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3a5a8ab00feaf04efd39990432cb8552cafb889edb7e606c5423bbd1de8a92fe"
           data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
           Sign&nbsp;in
         </a>
           <a href="/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=owensiz%2FFrontend-01-Template"
             class="HeaderMenu-link d-inline-block no-underline border border-gray-dark rounded-1 px-2 py-1"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/owensiz/Frontend-01-Template/blob/master/week05/NOTE.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="17be51bc76591a419dd8ec86604e58119a3ca816240f89bcaa008dd93e4c9dd4"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/owensiz/Frontend-01-Template/blob/master/week05/server.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3a5a8ab00feaf04efd39990432cb8552cafb889edb7e606c5423bbd1de8a92fe"
             data-ga-click="Sign up, click to sign up for account, ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out">
             Sign&nbsp;up
           </a>
@@ -508,7 +508,7 @@
 
   <li>
     
-  <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/owensiz/Frontend-01-Template/blob/master/week05/NOTE.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f37be24596499460cb384d495232d0b681e9d8655519ea1eb68986445a432339" href="/login?return_to=%2Fowensiz%2FFrontend-01-Template">
+  <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/owensiz/Frontend-01-Template/blob/master/week05/server.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f02d78de3dca7440c1b47f81b369fbbd71fd566a56f3cb3f0fda5d180b34e455" href="/login?return_to=%2Fowensiz%2FFrontend-01-Template">
     <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"></path></svg>
     Watch
 </a>    <a class="social-count" href="/owensiz/Frontend-01-Template/watchers"
@@ -519,7 +519,7 @@
   </li>
 
   <li>
-        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:252664634,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/owensiz/Frontend-01-Template/blob/master/week05/NOTE.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="491a3277818d973c5da2d9ecb64c64adaafdda9b5943f9dbdd5289d3bc3a9b03" href="/login?return_to=%2Fowensiz%2FFrontend-01-Template">
+        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:252664634,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/owensiz/Frontend-01-Template/blob/master/week05/server.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e2984e2a38d4cbf447aac6b87b0c89ca6801432012a26f9c409a94b9f661d6f1" href="/login?return_to=%2Fowensiz%2FFrontend-01-Template">
       <svg height="16" class="octicon octicon-star v-align-text-bottom" vertical_align="text_bottom" viewBox="0 0 14 16" version="1.1" width="14" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"></path></svg>
 
       Star
@@ -532,7 +532,7 @@
   </li>
 
   <li>
-      <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:252664634,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/owensiz/Frontend-01-Template/blob/master/week05/NOTE.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ccf2e8abd12cbc18a18f1cc2cd75ae96f386c1ad8193d4f48773d669e411d5e0" href="/login?return_to=%2Fowensiz%2FFrontend-01-Template">
+      <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:252664634,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/owensiz/Frontend-01-Template/blob/master/week05/server.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ed238ad57baeee43e7ab6a4bb89064d07a67a0adbc0c5f2ea223ec23f9cd3a46" href="/login?return_to=%2Fowensiz%2FFrontend-01-Template">
         <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
         Fork
 </a>
@@ -662,9 +662,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/owensiz/Frontend-01-Template/blob/071a97e2ecc94aa4d35f9974de2e0d552888062d/week05/NOTE.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/owensiz/Frontend-01-Template/blob/071a97e2ecc94aa4d35f9974de2e0d552888062d/week05/server.js">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:f657c8715fadad000d96a3363c59a0a5 -->
+    <!-- blob contrib key: blob_contributors:v22:36f783496ea7e943c47c8d03cd55cd42 -->
       <signup-prompt-controller class="signup-prompt-bg rounded-1" data-prompt="signup" hidden>
     <div class="signup-prompt p-4 text-center mb-4 rounded-1">
       <div class="position-relative">
@@ -678,7 +678,7 @@
         </button>
         <h3 class="pt-2">Join GitHub today</h3>
         <p class="col-6 mx-auto">GitHub is home to over 50 million developers working together to host and review code, manage projects, and build software together.</p>
-        <a class="btn btn-primary" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;files signup prompt&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/owensiz/Frontend-01-Template/blob/master/week05/NOTE.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ff65bc8d86419af823df3cb839edaa617c8959c28804349943156ed7b2a4fc95" href="/join?source=prompt-blob-show&amp;source_repo=owensiz%2FFrontend-01-Template">Sign up</a>
+        <a class="btn btn-primary" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;files signup prompt&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/owensiz/Frontend-01-Template/blob/master/week05/server.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4c94dea888cd228ee43005febc83368cc46da72b6c1ced4e5cf9b795d44367dc" href="/join?source=prompt-blob-show&amp;source_repo=owensiz%2FFrontend-01-Template">Sign up</a>
       </div>
     </div>
   </signup-prompt-controller>
@@ -696,7 +696,7 @@
     <span class="dropdown-caret"></span>
   </summary>
 
-  <details-menu class="SelectMenu SelectMenu--hasFilter" src="/owensiz/Frontend-01-Template/refs/master/week05/NOTE.md?source_action=show&amp;source_controller=blob" preload>
+  <details-menu class="SelectMenu SelectMenu--hasFilter" src="/owensiz/Frontend-01-Template/refs/master/week05/server.js?source_action=show&amp;source_controller=blob" preload>
     <div class="SelectMenu-modal">
       <include-fragment class="SelectMenu-loading" aria-label="Menu is loading">
         <svg class="octicon octicon-octoface anim-pulse" height="32" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"></path></svg>
@@ -712,13 +712,52 @@
                 data-hotkey="t">
             Find file
           </a>
-          <clipboard-copy value="week05/NOTE.md" class="btn btn-sm BtnGroup-item">
+          <clipboard-copy value="week05/server.js" class="btn btn-sm BtnGroup-item">
             Copy path
           </clipboard-copy>
         </div>
       </span>
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal flex-md-self-center ml-md-2 mr-md-3 my-2 my-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/owensiz/Frontend-01-Template"><span>Frontend-01-Template</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/owensiz/Frontend-01-Template/tree/master/week05"><span>week05</span></a></span><span class="separator">/</span><strong class="final-path">NOTE.md</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/owensiz/Frontend-01-Template"><span>Frontend-01-Template</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/owensiz/Frontend-01-Template/tree/master/week05"><span>week05</span></a></span><span class="separator">/</span><strong class="final-path">server.js</strong>
+          <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
+  <summary class="btn-link link-gray css-truncate" aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:252664634,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;originating_url&quot;:&quot;https://github.com/owensiz/Frontend-01-Template/blob/master/week05/server.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="703b6c8c7c54782c428933e5f089a5cda5911cf15e07224df3e14649781cce5d">
+      <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"></path></svg>
+    <span data-menu-button>Jump to</span>
+    <span class="dropdown-caret"></span>
+  </summary>
+  <details-menu class="SelectMenu SelectMenu--hasFilter" role="menu">
+    <div class="SelectMenu-modal">
+      <header class="SelectMenu-header">
+        <span class="SelectMenu-title">Code definitions</span>
+        <button class="SelectMenu-closeButton" type="button" data-toggle-for="jumpto-symbol-select-menu">
+          <svg aria-label="Close menu" class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" role="img"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg>
+        </button>
+      </header>
+        <div class="SelectMenu-filter">
+          <input
+            class="SelectMenu-input form-control js-filterable-field"
+            id="jumpto-symbols-filter-field"
+            type="text"
+            autocomplete="off"
+            spellcheck="false"
+            autofocus
+            placeholder="Filter definitions"
+            aria-label="Filter definitions">
+        </div>
+      <div class="SelectMenu-list">
+        <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
+        </div>
+      </div>
+      <footer class="SelectMenu-footer">
+        <div class="d-flex flex-justify-between">
+          Code navigation index up-to-date
+          <svg class="octicon octicon-primitive-dot text-green" viewBox="0 0 8 16" version="1.1" width="8" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 8c0-2.2 1.8-4 4-4s4 1.8 4 4-1.8 4-4 4-4-1.8-4-4z"></path></svg>
+        </div>
+      </footer>
+    </div>
+  </details-menu>
+</details>
+
       </h2>
 
       <div class="BtnGroup flex-shrink-0 d-none d-md-inline-block">
@@ -728,7 +767,7 @@
               data-hotkey="t">
           Find file
         </a>
-        <clipboard-copy value="week05/NOTE.md" class="btn btn-sm BtnGroup-item">
+        <clipboard-copy value="week05/server.js" class="btn btn-sm BtnGroup-item">
           Copy path
         </clipboard-copy>
       </div>
@@ -736,7 +775,7 @@
 
 
 
-    <include-fragment src="/owensiz/Frontend-01-Template/contributors/master/week05/NOTE.md" class="Box Box--condensed commit-loader">
+    <include-fragment src="/owensiz/Frontend-01-Template/contributors/master/week05/server.js" class="Box Box--condensed commit-loader">
       <div class="Box-body bg-blue-light f6">
         Fetching contributors&hellip;
       </div>
@@ -757,17 +796,17 @@
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
 
-      3 lines (2 sloc)
+      14 lines (12 sloc)
       <span class="file-info-divider"></span>
-    96 Bytes
+    378 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/owensiz/Frontend-01-Template/raw/master/week05/NOTE.md">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/owensiz/Frontend-01-Template/blame/master/week05/NOTE.md">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/owensiz/Frontend-01-Template/commits/master/week05/NOTE.md">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/owensiz/Frontend-01-Template/raw/master/week05/server.js">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/owensiz/Frontend-01-Template/blame/master/week05/server.js">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/owensiz/Frontend-01-Template/commits/master/week05/server.js">History</a>
     </div>
 
 
@@ -795,10 +834,91 @@
 
 
       
-  <div id="readme" class="Box-body readme blob js-code-block-container px-5">
-    <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-每周总结可以写在这里" class="anchor" aria-hidden="true" href="#每周总结可以写在这里"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>每周总结可以写在这里</h1>
-<p>笔记放在语雀 <a href="https://www.yuque.com/owensiz/yymu9s/oezbxz" rel="nofollow">https://www.yuque.com/owensiz/yymu9s/oezbxz</a></p>
-</article>
+
+  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-javascript ">
+      
+<table class="highlight tab-size js-file-line-container" data-tab-size="8" data-paste-markdown-skip>
+      <tr>
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-k>const</span> <span class=pl-s1>http</span> <span class=pl-c1>=</span> <span class=pl-en>require</span><span class=pl-kos>(</span><span class=pl-s>&#39;http&#39;</span><span class=pl-kos>)</span></td>
+      </tr>
+      <tr>
+        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// Returns content-type = text/plain</span></td>
+      </tr>
+      <tr>
+        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class=pl-k>const</span> <span class=pl-s1>server</span> <span class=pl-c1>=</span> <span class=pl-s1>http</span><span class=pl-kos>.</span><span class=pl-en>createServer</span><span class=pl-kos>(</span><span class=pl-kos>(</span><span class=pl-s1>req</span><span class=pl-kos>,</span> <span class=pl-s1>res</span><span class=pl-kos>)</span> <span class=pl-c1>=&gt;</span> <span class=pl-kos>{</span></td>
+      </tr>
+      <tr>
+        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line">  <span class=pl-smi>console</span><span class=pl-kos>.</span><span class=pl-en>log</span><span class=pl-kos>(</span><span class=pl-s>&#39;request received&#39;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+      </tr>
+      <tr>
+        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line">  <span class=pl-c>// console.log(req);</span></td>
+      </tr>
+      <tr>
+        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line">  <span class=pl-smi>console</span><span class=pl-kos>.</span><span class=pl-en>log</span><span class=pl-kos>(</span><span class=pl-s1>req</span><span class=pl-kos>.</span><span class=pl-c1>headers</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+      </tr>
+      <tr>
+        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>res</span><span class=pl-kos>.</span><span class=pl-en>setHeader</span><span class=pl-kos>(</span><span class=pl-s>&#39;Content-Type&#39;</span><span class=pl-kos>,</span> <span class=pl-s>&#39;text/html&#39;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+      </tr>
+      <tr>
+        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>res</span><span class=pl-kos>.</span><span class=pl-en>setHeader</span><span class=pl-kos>(</span><span class=pl-s>&#39;X-Foo&#39;</span><span class=pl-kos>,</span> <span class=pl-s>&#39;bar&#39;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+      </tr>
+      <tr>
+        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>res</span><span class=pl-kos>.</span><span class=pl-en>writeHead</span><span class=pl-kos>(</span><span class=pl-c1>200</span><span class=pl-kos>,</span> <span class=pl-kos>{</span> <span class=pl-s>&#39;Content-Type&#39;</span>: <span class=pl-s>&#39;text/plain&#39;</span> <span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+      </tr>
+      <tr>
+        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>res</span><span class=pl-kos>.</span><span class=pl-en>end</span><span class=pl-kos>(</span><span class=pl-s>&#39;ok&#39;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+      </tr>
+      <tr>
+        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+      </tr>
+      <tr>
+        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>server</span><span class=pl-kos>.</span><span class=pl-en>listen</span><span class=pl-kos>(</span><span class=pl-c1>8088</span><span class=pl-kos>)</span></td>
+      </tr>
+</table>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 bg-white border border-gray-dark rounded-1" aria-label="Inline file action toolbar">
+      <svg class="octicon octicon-kebab-horizontal" viewBox="0 0 13 16" version="1.1" width="13" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm5 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM13 7.5a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0z"></path></svg>
+    </summary>
+    <details-menu>
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2" style="width:185px">
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/owensiz/Frontend-01-Template/blame/071a97e2ecc94aa4d35f9974de2e0d552888062d/week05/server.js">View git blame</a></li>
+      </ul>
+    </details-menu>
+  </details>
+
   </div>
 
     </div>
@@ -818,10 +938,10 @@
      hidden
      data-tagsearch-url="/owensiz/Frontend-01-Template/find-symbols"
      data-tagsearch-ref="master"
-     data-tagsearch-path="week05/NOTE.md"
-     data-tagsearch-lang="Markdown"
-     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:252664634,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;Markdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/owensiz/Frontend-01-Template/blob/master/week05/NOTE.md&quot;,&quot;user_id&quot;:null}}"
-     data-hydro-click-hmac="1a37e3b1e5160f8e14e13fa817611ff0916df2d375170ee815cdcfcc629a15a8">
+     data-tagsearch-path="week05/server.js"
+     data-tagsearch-lang="JavaScript"
+     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:252664634,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;originating_url&quot;:&quot;https://github.com/owensiz/Frontend-01-Template/blob/master/week05/server.js&quot;,&quot;user_id&quot;:null}}"
+     data-hydro-click-hmac="c41f44a96bde4ce76fb360cd361c73288ffb8a1e5b59b32a5ce00919f081b054">
   <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box box-shadow-large">
     <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
     </div>
